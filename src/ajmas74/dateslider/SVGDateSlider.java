@@ -18,6 +18,11 @@ import com.ibm.icu.text.DateFormat;
 import com.ibm.icu.util.Calendar;
 import com.ibm.icu.util.ULocale;
 
+/**
+ * 
+ * @author Andre-John Mas
+ *
+ */
 public class SVGDateSlider {
 
 	private static final String TEMPLATE_NAME = "svgtemplate.txt";

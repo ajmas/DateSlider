@@ -5,6 +5,11 @@
  */
 package ajmas74.dateslider;
 
+/**
+ * 
+ * @author Andre-John Mas
+ *
+ */
 public class Marker {
     
     public static final int NEW_YEAR = 0;
